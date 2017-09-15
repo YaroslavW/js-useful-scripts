@@ -1,3 +1,4 @@
+function setWidth()
 {
     var allImg = document.getElementById('test_block').getElementsByTagName('img');
     for (var i=0; i<allImg.length; i++)
